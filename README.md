@@ -1,16 +1,21 @@
-## Hi there 👋
+## 👋 Hi, I'm Mohamed El Achguer
 
-<!--
-**snokse/snokse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python & Flutter Developer  
+I build Android applications and data-driven tools.
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+- Python
+- Flutter / Flet
+- Supabase
+- REST APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📱 Projects
+- BetSmart – Betting analysis tool
+- Android apps with Flutter & Flet
+
+### 🌍 Location
+Morocco
+
+### 📫 Contact
+Email: snokse3@gmail.com  
+GitHub: https://github.com/snokse

@@ -19,3 +19,5 @@ Morocco
 ### 📫 Contact
 Email: snokse3@gmail.com  
 GitHub: https://github.com/snokse
+
+Currently preparing apps for Google Play release.

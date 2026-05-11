@@ -1,7 +1,7 @@
-<h1 align="center">👋 Salut, moi c'est Mohamed El Achguer</h1>
+<h1 align="center">👋 Hi, I'm Mohamed El Achguer</h1>
 
 <p align="center">
-  <strong>Développeur Python & Flutter | Passionné par le mobile et la data</strong>
+  <strong>Python & Flutter Developer | Passionate about mobile and data</strong>
 </p>
 
 <p align="center">
@@ -14,23 +14,23 @@
 
 ---
 
-### 🚀 À propos de moi
+### 🚀 About Me
 
-- 🔭 Je développe des **applications Android** et des **outils d'analyse de données**
-- 🌱 Actuellement en préparation de mes apps pour le **Google Play Store**
-- 🌐 Créateur de [humanarticle.online](https://www.humanarticle.online/)
-- 📍 Basé au **Maroc**
-- 💡 Toujours à la recherche de nouveaux défis tech
+- 🔭 I build **Android applications** and **data-driven tools**
+- 🌱 Currently preparing my apps for **Google Play Store** release
+- 🌐 Creator of [humanarticle.online](https://www.humanarticle.online/)
+- 📍 Based in **Morocco**
+- 💡 Always looking for new tech challenges
 
 ---
 
-### 📱 Projets phares
+### 📱 Featured Projects
 
-| Projet | Description | Tech |
-|--------|-------------|------|
-| **BetSmart** | Outil d'analyse de paris sportifs | Python, Data Analysis |
-| **Human Article** | Site web de contenu | Web |
-| **Apps Android** | Applications mobiles variées | Flutter, Flet, Supabase |
+| Project | Description | Tech |
+|---------|-------------|------|
+| **BetSmart** | Sports betting analysis tool | Python, Data Analysis |
+| **Human Article** | Content website | Web |
+| **Android Apps** | Various mobile applications | Flutter, Flet, Supabase |
 
 ---
 
@@ -46,7 +46,7 @@
 
 ---
 
-### 📫 Me contacter
+### 📫 Contact Me
 
 <p align="center">
   <a href="mailto:snokse3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
